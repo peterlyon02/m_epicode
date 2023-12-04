@@ -1,0 +1,175 @@
+.background{
+    background-color: rgb(252, 209, 17);
+}
+
+.top-bar{
+    display: flex;
+    border-bottom: 1px solid black;
+    height: 7vh;
+    padding-left: 40vh;
+    align-items: center;
+    
+}
+
+.options{
+    display: flex;
+    margin-left: 80vh;
+    align-items: center;
+}
+
+.design{
+    margin: 10px;
+}
+
+.strange{
+    margin: 10px;
+    border-radius: 15px;
+    background-color: rgba(0, 0, 0, 0.788);
+}
+
+.get{
+    color: rgb(255, 255, 255);
+    margin: 7px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.page{
+    height: 45vh;
+    border-bottom: 1px solid black;
+    padding-left: 40vh;
+    padding-right: 100vh;
+    
+}
+
+.larger{
+    font-size: 80px;
+    margin-top: 10vh;
+    margin-bottom: 0vh;
+    
+}
+
+.minus{
+    margin-top: 5vh;
+}
+
+.strange1{
+    border-radius: 15px;
+    background-color: rgba(0, 0, 0, 0.788);
+    margin-right: 50vh;
+    margin-top: 7vh;
+    display: flex;
+    justify-content: center;
+}
+
+.start-reading{
+    color: white;
+    font-size: 22px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.upper-page{
+    border-bottom: 1px solid black;
+    height: 30vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.descriptions{
+    height: 28vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.boxes{
+    display: flex;
+    margin-top: 10px;
+}
+
+.box{
+    height: 10vh;
+    width: 30vh;
+    display: flex;
+    flex-direction: column;
+    margin-right: 60px;
+}
+
+.t{
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.second-title{
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+
+.dates{
+    display: flex;
+    margin-top: 10px;
+}
+
+.space{
+    margin-left: 10px;
+}
+
+.main-page{
+    display: flex;
+
+}
+
+.articles{
+    display: flex;
+    flex-direction: column;
+    padding-left: 40vh;
+    padding-top: 10vh;
+}
+
+.article{
+    display: flex;
+    flex-direction: column;
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+
+.image{
+    margin-left: 20px;
+}
+
+.discover{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20vh;
+    height: 20vh;
+    width: 30vh;
+    margin-top: 10vh;
+}
+
+.inception{
+    display: flex;
+    flex-direction: column;
+}
+
+.row2{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+}
+
+.shape{
+    margin-right: 10px;
+    border-radius: 10px;
+    background-color: rgb(219, 210, 210);
+}
+
+.font{
+    
+    margin: 7px;
+}
